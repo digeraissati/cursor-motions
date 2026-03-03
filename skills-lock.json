@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "animation-micro-interaction-pack": {
+      "source": "patricio0312rev/skills",
+      "sourceType": "github",
+      "computedHash": "0a89548103098ca10765725d217b1086c7b8e83e767960dbffac5ca487323a3b"
+    }
+  }
+}
